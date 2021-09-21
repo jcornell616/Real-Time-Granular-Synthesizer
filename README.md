@@ -13,6 +13,7 @@ interfaced with an ADC.
 
 ## Specs
 
+* TI C2000 Dual-Core Processor
 * McBSP interface with TLV320AIC23
 * ADC interface with potentiometers
 * SPI interface with 256K SRAM
@@ -21,9 +22,15 @@ interfaced with an ADC.
 * Dynamic creation and destruction of grains with linked list
 * Grain scheduling
 * Parameters:
+
      Volume
+     
      Wet/Dry
+     
      Grain Size
+     
      Grain Texture
+     
      Feedback
-     Random, Reverse, Freeze 
+     
+     Random, Reverse, Freeze states
