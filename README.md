@@ -22,15 +22,9 @@ interfaced with an ADC.
 * Dynamic creation and destruction of grains with linked list
 * Grain scheduling
 * Parameters:
-
-     Volume
-     
-     Wet/Dry
-     
-     Grain Size
-     
-     Grain Texture
-     
-     Feedback
-     
-     Random, Reverse, Freeze states
+     * Volume 
+     * Wet/Dry     
+     * Grain Size     
+     * Grain Texture
+     * Feedback     
+     * Random, Reverse, Freeze states
